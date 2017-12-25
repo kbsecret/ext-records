@@ -13,7 +13,7 @@ module KBSecret
       end
 
       def load(*new_codes)
-        codes.append(new_codes)
+        codes.concat(new_codes)
         sync!
       end
 
