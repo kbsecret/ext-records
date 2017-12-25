@@ -18,8 +18,9 @@ module KBSecret
       end
 
       def next
-        codes.pop
+        code = codes.pop
         sync!
+        code
       end
     end
   end
