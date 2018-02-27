@@ -3,7 +3,7 @@ ext-records
 
 This repository is a central resource for custom KBSecret record types.
 
-Check out the [customization page](https://kbsecret.github.io/customization) for a quick
+Check out the [customization page](https://kbsecret.github.io/#/customize/) for a quick
 explanation of how custom records work and behave.
 
 ## Contributing a new record
