@@ -7,8 +7,7 @@ fashion in KBSecret.
 ## Installation
 
 ```bash
-$ mkdir -p ~/.config/kbsecret/record/
-$ cp recovery.rb ~/.config/kbsecret/record/
+$ cp recovery.rb $(kbsecret conf -r)/
 ```
 
 ## Usage
